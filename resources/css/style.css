@@ -1,0 +1,16 @@
+table .delete-form {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+table .delete-form button {
+    display: inline;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    font: inherit;
+    cursor: pointer;
+}
